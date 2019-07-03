@@ -2,4 +2,4 @@ Train data needs to be in the format
 dir/train/
 dir/labels.csv
 
-Needs a good GPu to run- I used GCP with a Nvidia Tesla
+Needs a good GPU to run- I used GCP with a Nvidia Tesla GPU having 8 GB of VRAM
