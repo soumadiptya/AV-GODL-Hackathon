@@ -23,8 +23,8 @@ Used 5 different models - Resnet 18, Resnet 34, Resnet 50, VGG 16 and Densenet. 
 Default Image augmentations provided by the Fast AI library were used and models were trained by unfreezing all layers, selecting a best Learning rate (using lr.find()) and training for 5-10 epochs using the **fit_one_cycle** method
 
 ## Final Ranks obtained
-Public Leaderbaord- 48/2083, Weighted F1 score - 0.9757 (First Rank- 0.9906)
-Private Leaderbaord- 38/2083, Weighted F1 score - 0.9714 (First Rank- 0.9853)
+Public Leaderbaord- 48/2083, Weighted F1 score - 0.9757 (First Rank- 0.9906)<br>
+Private Leaderbaord- 38/2083, Weighted F1 score - 0.9714 (First Rank- 0.9853)<br>
 
 ## Approaches for improving rank
 After going through the solutions provided by the Top 10 participants following themes seemed to stand out commonly:
